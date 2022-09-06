@@ -1,0 +1,14 @@
+# Updated 9/6/22 7:17 PM by Minecraft 1.5.2
+# victim name | ban date | banned by | banned until | reason
+
+yeetermceater_|2022-05-02 20:02:05 +0000|(Unknown)|Forever|Banned by an operator.
+yeetermceater__|2022-05-02 20:02:07 +0000|(Unknown)|Forever|Banned by an operator.
+the_taco_eater|2022-05-02 19:27:25 +0000|(Unknown)|Forever|Banned by an operator.
+dont_do_it|2022-05-02 19:28:09 +0000|(Unknown)|Forever|Banned by an operator.
+bruh|2022-05-02 19:28:30 +0000|(Unknown)|Forever|Banned by an operator.
+lol_boso|2022-05-02 19:28:58 +0000|(Unknown)|Forever|Banned by an operator.
+bro_take_a_loss|2022-05-02 19:29:34 +0000|(Unknown)|Forever|Banned by an operator.
+jimmy|2022-05-02 19:36:31 +0000|(Unknown)|Forever|Banned by an operator.
+black_baby_jesus|2022-05-02 19:40:27 +0000|(Unknown)|Forever|Banned by an operator.
+yeetermceater|2022-05-02 20:02:02 +0000|(Unknown)|Forever|Banned by an operator.
+pandacite|2022-05-02 20:20:23 +0000|(Unknown)|Forever|Banned by an operator.

@@ -1,0 +1,4 @@
+# Updated 9/6/22 7:17 PM by Minecraft 1.5.2
+# victim name | ban date | banned by | banned until | reason
+
+66.249.70.6|2022-05-02 19:47:29 +0000|(Unknown)|Forever|Banned by an operator.
